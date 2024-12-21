@@ -53,7 +53,7 @@ A modern e-commerce platform with an integrated AI chatbot to assist customers w
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/12hestin/-E-commerce-Sales-Chatbot
    cd ecommerce-chatbot
    ```
 
@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- [Your Name] - Initial work
+- Hestin Mathew Xavier - Initial work
 
 ## 🙏 Acknowledgments
 
